@@ -44,3 +44,20 @@ p {
 .link:hover {
     background-color: yellow;
 }
+
+#hobby {
+    font-size: 30px
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace
+}
+
+h3,
+h4,
+h5,
+h6,
+h7 {
+    font-size: 20px
+}
